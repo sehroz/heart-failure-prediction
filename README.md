@@ -172,7 +172,7 @@ To learn more about our methodology, results, and insights, view the complete [*
 ## 🎥 Project Video
 
 ## [Sehroz Khan: Video](https://drive.google.com/file/d/1pRQOlk_Dy2iykZyWfIYfJ85DiYqEu5u5/view?usp=drive_link)
-## [Calen Lau: Video].(https://1drv.ms/v/c/42d723503c0d79fe/EezWu4Ir16BNureapc3NyeQByXwRV8TmCHuu9V0iU0cXeg?e=EcKtmb).
+## [Calen Lau: Video](https://1drv.ms/v/c/42d723503c0d79fe/EezWu4Ir16BNureapc3NyeQByXwRV8TmCHuu9V0iU0cXeg?e=wfnKN2)
 
 ---
 
