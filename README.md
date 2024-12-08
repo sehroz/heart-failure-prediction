@@ -54,6 +54,7 @@ We are using the [Heart Failure Prediction Dataset](https://www.kaggle.com/datas
 - [Sehroz Khan: Video](https://drive.google.com/file/d/1pRQOlk_Dy2iykZyWfIYfJ85DiYqEu5u5/view?usp=drive_link)
 - [Calen Lau: Video](https://1drv.ms/v/c/42d723503c0d79fe/EezWu4Ir16BNureapc3NyeQByXwRV8TmCHuu9V0iU0cXeg?e=wfnKN2)
 - [Vivien Yuen: Video](https://youtu.be/Ee52x14EkmY)
+- [Alfredo N: Video](https://drive.google.com/file/d/1_mzvxNAS8Y5VHrz4nLDjpvzGiAO1mZNL/view?usp=drive_link)
 
 ---
 
